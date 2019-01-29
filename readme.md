@@ -1,3 +1,5 @@
+![xmind](https://github.com/bkseastone/notes-cpp/blob/master/cpp.png?raw=true)
+
 # [link library](https://blog.csdn.net/ztf312/article/details/77258048)
 
 1. [create static link library](https://www.cnblogs.com/alan666/p/8311984.html)
