@@ -90,7 +90,7 @@ A a0 = new A();
 
 implement 2-dim matrix to vector by row
 
-# class definition
+# class
 
 ## data / function member
 
